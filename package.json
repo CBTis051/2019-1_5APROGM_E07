@@ -1,0 +1,19 @@
+{
+  "name": "2019-1_5aprogm_restserver_eq07",
+  "version": "1.0.0",
+  "description": "RestServer Equipo 07 del 5APROGM 2019-1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CBTis051/2019-1_5APROGM_E07.git"
+  },
+  "author": "2019-1 5APROGM_E07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CBTis051/2019-1_5APROGM_E07/issues"
+  },
+  "homepage": "https://github.com/CBTis051/2019-1_5APROGM_E07#readme"
+}
